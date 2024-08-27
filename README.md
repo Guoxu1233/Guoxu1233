@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guoxu , a master's student jointly supervised by the Shenzhen International Graduate School and the Department of Electronic Engineering , Tsinghua University 
+- 👋 Hi, I’m @Guoxu , a master's student jointly supervised by SIGS and Department of Electronic Engineering , Tsinghua University 
 - 🌱 I’m currently learning DL and RL
 - 👀 I’m interested in LLM and Embodied AI
 
