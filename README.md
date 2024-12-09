@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Guoxu , a master's student jointly supervised by SIGS and Department of Electronic Engineering , Tsinghua University 
-- 🌱 I’m currently learning DL and RL
-- 👀 I’m interested in LLM and Embodied AI
+- 👀 I’m interested in deep generative models, reinforcement learning, and their applications.
 
 
 <!---
