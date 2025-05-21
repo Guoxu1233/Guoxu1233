@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guoxu , a master's student jointly supervised by SIGS and Department of Electronic Engineering , Tsinghua University 
 - 👀 I’m interested in deep generative models, reinforcement learning, and their applications.
-- 👯 I’m currently a research intern at ByteDance working on video generation.
+- 👯 I’m currently a research intern at ByteDance working on video generation and video editing.
 
 
 <!---
