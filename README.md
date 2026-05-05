@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xu Guo , a master's student of Tsinghua University 
+- 👋 Hi, I’m @Xu Guo , a master's student at Tsinghua University 
 - 👀 I’m interested in deep generative models, reinforcement learning, and their applications.
 - 👯 I’m currently a research intern at Kling Team working on long video generation.
 
